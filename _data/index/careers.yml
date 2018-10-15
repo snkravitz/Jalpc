@@ -51,7 +51,7 @@
   date:
     detail: June, 2013
     i18n: company_b_date
-  job: Undergraduate
-    detail: Research Associate 
+  job: 
+    detail: Undergraduate 
     i18n: company_b_job
   icon: fa-plus-square
