@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: quinlan-lab
   repo: applied-computational-genomics
-  img: /static/assets/img/landing/ComputationalGenomics.png
+  img: /static/assets/img/landing/ComputationalGenomics.jpg
   desc: TA for Aaron Quinlan's course Applied Computational Genomics at the University of Utah.
 
 - name: Quinlan Lab
