@@ -1,22 +1,27 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Quinlan Lab
+- name: Applied Computational Genomics
   i18n: jalpc
   gh_user: quinlan-lab
   repo: applied-computational-genomics
+  img: /static/assets/img/landing/ComputationalGenomics.png
+  desc: TA for Aaron Quinlan's course Applied Computational Genomics at the University of Utah.
+
+- name: Quinlan Lab
+  i18n: cpython
+  url: http://quinlanlab.org/
   img: /static/assets/img/landing/QuinlanLab.png
-  desc: Graduate student in the Quinlan Lab at Utah, TA for Applied Computational Genomics.
+  desc: Graduate student co-mentored in the Quinlan Lab at Utah. Genomics, Bioinformatics, Algorithm Development.
 
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
+- name: Gregg Lab
+  i18n: cpython
+  url: https://gregglab.neuro.utah.edu/
+  img: /static/assets/img/landing/GreggLab.jpeg
+  desc: Graduate student co-mentored in the Gregg Lab at Utah. Neurogenetics, Epigenetics, Single Cell sequencing.
 
-#- name: Google
-#  i18n: google
-#  url: https://google.com
-#  img: /static/assets/img/landing/google.png
-#  desc: This is another project.
+- name: Advanced Sequencing Technologies
+  i18n: google
+  url: https://meetings.cshl.edu/courses.aspx?course=c-seqtec&year=16
+  img: /static/assets/img/landing/CSHL.png
+  desc: TA for Cold Spring Harbor's Advanced Sequencing Technologies Course
