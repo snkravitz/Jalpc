@@ -14,11 +14,13 @@
   img: /static/assets/img/landing/QuinlanLab.png
   desc: Graduate student co-mentored in the Quinlan Lab at Utah. Genomics, Bioinformatics, Algorithm Development.
 
+
 - name: Gregg Lab
   #i18n: cpython
   url: https://gregglab.neuro.utah.edu/
   img: /static/assets/img/landing/GreggLab.jpeg
   desc: Graduate student co-mentored in the Gregg Lab at Utah. Neurogenetics, Epigenetics, Single Cell sequencing.
+
 
 - name: Advanced Sequencing Technologies
   #i18n: google
