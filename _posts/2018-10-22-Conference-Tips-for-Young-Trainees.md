@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 ASHG Surivival Tips for Young Trainees"
+title:  "5 ASHG Survival Tips for Young Trainees"
 date:   2018-10-22
 desc: "What I've learned to get the most out of overwhelming mega-conferences."
 keywords: "ASHG18, Human Genetics, conferences, ASHG, survival tips"
