@@ -32,4 +32,10 @@
   img: /static/assets/img/landing/LPSHG.png
   desc: Summer school in the Swiss Alps, named after the Finnish geneticist Leena Peltonen 
   
+- name: F1000 Faculty
+  #i18n: google
+  url: https://f1000.com/prime/thefaculty/member/1092300
+  img: /static/assets/img/landing/F1000.png
+  desc: Associate Faculty Member to evaluate and highlight recent literature in F1000Prime. 
+  
   
